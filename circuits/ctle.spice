@@ -1,0 +1,16 @@
+* Differential receiver CTLE, resistive drain loads and capacitive source bypass.
+* SKY130 dimensions are micrometres. The input interface is externally biased.
+.subckt ctle inp inn outp outn vdd vss params: rs=750 cs=0.4p rd=1000 cl=0.1p ibias=100u
+Iref vdd nb {ibias}
+Xbias nb nb vss vss sky130_fd_pr__nfet_01v8 w=10 l=1
+Xtail tail nb vss vss sky130_fd_pr__nfet_01v8 w=40 l=1
+X1 outn inp sp vss sky130_fd_pr__nfet_01v8 w=20 l=0.15
+X2 outp inn sn vss sky130_fd_pr__nfet_01v8 w=20 l=0.15
+Rp vdd outp {rd}
+Rn vdd outn {rd}
+Rsp sp tail {rs}
+Rsn sn tail {rs}
+Cdeg sp sn {cs}
+Coutp outp vss {cl}
+Coutn outn vss {cl}
+.ends ctle

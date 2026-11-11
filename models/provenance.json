@@ -1,0 +1,30 @@
+{
+  "repository": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr",
+  "commit": "f62031a1be9aefe902d6d54cddd6f59b57627436",
+  "license": "Apache-2.0",
+  "files_sha256": {
+    "sky130_fd_pr__nfet_01v8__mismatch.corner.spice": "24a3b29d7d7f26f99098811c31eb5497950a3aed520ab83768a96f35467fe818",
+    "sky130_fd_pr__nfet_01v8__tt.corner.spice": "0c03b2e5727c414942f1d2b27e19a68724fb84be90b2c73b361ad41779311130",
+    "sky130_fd_pr__nfet_01v8__tt.pm3.spice": "3d706d50cf2e57175aea78bcf27e4ee07d9f750b154a4b06e6090531364a831b",
+    "sky130_fd_pr__nfet_01v8__ss.corner.spice": "896cd2d75e86826556819d92048c99a14bab6b9e4ae9d9295519a1bd64a3210f",
+    "sky130_fd_pr__nfet_01v8__ss.pm3.spice": "5280e1a07ed54547a4393008dccc4c3c1640920a5741f507ad7db9467b809114",
+    "sky130_fd_pr__nfet_01v8__ff.corner.spice": "440a5b78e0aa92f9cae53a7fc750493211c9e08dbdf0169de8396de0a53e7c55",
+    "sky130_fd_pr__nfet_01v8__ff.pm3.spice": "6b7859f53968eb8bd82a8febb6ab252bb98c550b6f2c3f743db9d9728c304405",
+    "sky130_fd_pr__nfet_01v8__sf.corner.spice": "304ad8f1cb845c4e9f638d07a04bb1c7a350a6e04084f858c45af7ac3a4d294c",
+    "sky130_fd_pr__nfet_01v8__sf.pm3.spice": "983078df46b52f41a85a07d83f27bef2baefbed1fdcd05fa8d7aaef2ddb83c59",
+    "sky130_fd_pr__nfet_01v8__fs.corner.spice": "d87e32075fa5b2616fd07e3f6309ef43eebe866e14c3404ea3928ee3631d6664",
+    "sky130_fd_pr__nfet_01v8__fs.pm3.spice": "9f3d40240b7ab8d51a1905f2ebcb20f9e3a2b10ea1a0664f10707016e488f966",
+    "sky130_fd_pr__pfet_01v8__mismatch.corner.spice": "f4d560668712678ea60641de923fce7691e64acda951949f840986837c31741a",
+    "sky130_fd_pr__pfet_01v8__tt.corner.spice": "641d251a08bf9ddcfc67ba4bd4698ae1978d09447eb6ebf90055fdf3d21917ab",
+    "sky130_fd_pr__pfet_01v8__tt.pm3.spice": "bf40d8c358fc11998f60f3734208dce44c206b0007a51c7bb5680f55d41a5c55",
+    "sky130_fd_pr__pfet_01v8__ss.corner.spice": "8d8b59726b48aa7a435b8f9bf0d0ecce0cef9f6359d4bb206f0a31306712e310",
+    "sky130_fd_pr__pfet_01v8__ss.pm3.spice": "52afa3f88f9c2ed7069990160e13aab8ae464b047a9efea7ef51a93510986e60",
+    "sky130_fd_pr__pfet_01v8__ff.corner.spice": "30ba71bde4024ff291a68352930bf2fc3e07f627efb090e1575b9dbd7b6e75da",
+    "sky130_fd_pr__pfet_01v8__ff.pm3.spice": "7c701f17c39f0649fbc64397f64df00f04355e8aade2f16a375ff17a16966fe8",
+    "sky130_fd_pr__pfet_01v8__sf.corner.spice": "857ce650534be04b5663787f03302f580624d6a6a477d27e293cf6ae93fc7d2f",
+    "sky130_fd_pr__pfet_01v8__sf.pm3.spice": "7de7bcc0f24e98f539835b5f13c4b7c36c89264fe35ed9b21e95d6ad9f275bdc",
+    "sky130_fd_pr__pfet_01v8__fs.corner.spice": "b3dc4e47f87a780ed7de8126839ca4620454b6de85307341672c903b0c164d01",
+    "sky130_fd_pr__pfet_01v8__fs.pm3.spice": "73b33216e4862421728ebd4e46f2ab7b3db56187893842ffe341398e2c345649",
+    "lod.spice": "6200b50c14eebb68d8009ca68e452d4c045e2d25d7438ee417c155883527fd7c"
+  }
+}

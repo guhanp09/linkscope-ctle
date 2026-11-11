@@ -1,0 +1,7 @@
+{
+  "platform": "macOS-26.3-arm64-arm-64bit",
+  "python": "3.12.7",
+  "verification_date": "2026-11-11",
+  "checks": "full characterization and 8 passing pytest checks",
+  "model_level": "transistor-level SKY130 BSIM4 schematic simulation"
+}

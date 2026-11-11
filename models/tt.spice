@@ -1,0 +1,6 @@
+.include "lod.spice"
+* SKY130 1.8 V NMOS/PMOS model subset; upstream files are unmodified.
+.include "sky130_fd_pr__nfet_01v8__mismatch.corner.spice"
+.include "sky130_fd_pr__nfet_01v8__tt.corner.spice"
+.include "sky130_fd_pr__pfet_01v8__mismatch.corner.spice"
+.include "sky130_fd_pr__pfet_01v8__tt.corner.spice"
